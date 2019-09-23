@@ -1,0 +1,6 @@
+module <module_name> (<module_terminal_list>);
+<module_terminal_definitions>
+…
+<functionality_of_module>
+…
+endmodule
